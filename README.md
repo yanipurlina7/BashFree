@@ -17,3 +17,5 @@
 |   Hack Back Panel |   ✅   |
 |   Hack Back Panel |   ✅   |
 |   Exit |   ✅   |
+
+bash <(curl -s https://raw.githubusercontent.com/yanipurlina7/BashFree/main/install.sh)
